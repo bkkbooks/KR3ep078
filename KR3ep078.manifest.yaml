@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep078/v1
 canonical_location: https://kanripo.org/bkk/KR3ep078/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 王孟英醫案
   identifiers:
@@ -16,13 +16,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep078_000.yaml, hash: 'sha256:5d36b98f31bbd37af6ad8156cac7db0b09ff29d0c3593ee12c3881b8a8d66187'}
-  - {seq: 1, filename: KR3ep078_001.yaml, hash: 'sha256:32413accf3c0764e65d9e46590b43b31a5f5645bc703161b9433c37bdd43c102'}
-  - {seq: 2, filename: KR3ep078_002.yaml, hash: 'sha256:ef7fbf7c2c589cd3b6f77d82b01b177156d48337f8f2698f8f6cc3ea2dca4cf5'}
+  - {seq: 0, filename: KR3ep078_000.yaml, hash: 'sha256:97a3f57d855fa6cf748ab38c6b50ad9abd7eb5d2a8d7e109580fe48eeae7964d'}
+  - {seq: 1, filename: KR3ep078_001.yaml, hash: 'sha256:a9844b3ec0edb30d6b723f38e118a82c0020bf07db7704838ec2ae3e84fd7e59'}
+  - {seq: 2, filename: KR3ep078_002.yaml, hash: 'sha256:742611d974001f15d82f5dfdb10f019fcf2e421bb1ef969a88bc685ed96fdaf4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep078_000.markers.yaml, hash: 'sha256:76324ef476963ee731780b1a40583f0564dd9061660b57b9559aeac8e4e6ffaa'}
-  - {seq: 1, role: markers, filename: assets/KR3ep078_001.markers.yaml, hash: 'sha256:042dd05343681c837ac399676ba24455dd28247f09223b1db4e10d1413dfb928'}
-  - {seq: 2, role: markers, filename: assets/KR3ep078_002.markers.yaml, hash: 'sha256:0db316c872047ea4e8737a3965624885a32fc2bc8526c7e9738feb76976f22f0'}
+  - {seq: 0, role: markers, filename: assets/KR3ep078_000.markers.yaml, hash: 'sha256:32cdbbddc80cdd01dbff681b7c7e3fbd22f9dfd32c6e8d8c4c2c9bd3f834a47b'}
+  - {seq: 1, role: markers, filename: assets/KR3ep078_001.markers.yaml, hash: 'sha256:05ea55b8554fc314aeec0b138304975dc0385d677d240c571f7ef13e8f3a4b71'}
+  - {seq: 2, role: markers, filename: assets/KR3ep078_002.markers.yaml, hash: 'sha256:2e776e306484037dfb09613ab6f6e7cb34aa956380c2a9178e17ca21681f0a23'}
 table_of_contents:
 - ref:
     seq: 0
@@ -644,4 +644,7 @@ table_of_contents:
   label: 雜治
   type: section
   level: 2
-hash: sha256:198fec5e671d8afa8237084ca063e353d22fed595a04b56106e5089a08bd6c01
+hash: sha256:f963d4288e79ea0477d6d6d3fd6d50d54a5f95c8560103028da60861fb55a38c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
