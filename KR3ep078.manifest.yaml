@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep078_000.yaml, hash: 'sha256:97a3f57d855fa6cf748ab38c6b50ad9abd7eb5d2a8d7e109580fe48eeae7964d'}
+  - {seq: 0, filename: KR3ep078_000.yaml, hash: 'sha256:0ccdc7186732a9fa30fde3480b0f14726035d3cdb935fbb4051d3b006d3a7972'}
   - {seq: 1, filename: KR3ep078_001.yaml, hash: 'sha256:a9844b3ec0edb30d6b723f38e118a82c0020bf07db7704838ec2ae3e84fd7e59'}
   - {seq: 2, filename: KR3ep078_002.yaml, hash: 'sha256:742611d974001f15d82f5dfdb10f019fcf2e421bb1ef969a88bc685ed96fdaf4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep078_000.markers.yaml, hash: 'sha256:32cdbbddc80cdd01dbff681b7c7e3fbd22f9dfd32c6e8d8c4c2c9bd3f834a47b'}
+  - {seq: 0, role: markers, filename: assets/KR3ep078_000.markers.yaml, hash: 'sha256:b566834c673a67e2bbc774d9b1434af9b33695572c5449a168c76cd660951eee'}
   - {seq: 1, role: markers, filename: assets/KR3ep078_001.markers.yaml, hash: 'sha256:c53752d0d63456bf7c561b5c78f3631895d79cfdf82e7e1c0f6190b606b31627'}
   - {seq: 2, role: markers, filename: assets/KR3ep078_002.markers.yaml, hash: 'sha256:201f08d4444273e01832e81ebfe968e658f235bbbd8d04540102c409bbc7bfaf'}
 table_of_contents:
@@ -28,7 +28,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep078_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 270
   label: 序
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep078_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 270
     - 727
   label: 序
@@ -644,7 +644,7 @@ table_of_contents:
   label: 雜治
   type: section
   level: 2
-hash: sha256:fc17b878b91bf09c27ddc3deb085a25938b951da7240cc21a8fcd58744a6bab0
+hash: sha256:9ee4ca19f9386b3f9eecea7ea9cde234284846562ee8c9509b35343560e00bd5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

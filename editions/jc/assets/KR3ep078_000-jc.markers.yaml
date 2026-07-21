@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3ep078/jc/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: xml-element, offset: 1, content: '', id: KR3ep078_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3ep078_jc_000-d2p2}}
   - {type: 'tls:seg', offset: 1, content: '', id: KR3ep078_jc_000-d2.p2s1}
   - {type: punctuation, offset: 1, content: 《, id: KR3ep078_jc_000-bkkpn1}
@@ -290,6 +290,5 @@ markers:
   - {type: xml-element, offset: 714, content: '', id: KR3ep078_jc_000-d3p4, name: p, role: open, attrs: {'xml:id': KR3ep078_jc_000-d3p4}}
   - {type: 'tls:seg', offset: 714, content: '', id: KR3ep078_jc_000-d3.p4s1}
   - {type: xml-element, offset: 727, content: '', id: KR3ep078_jc_000-d3p4_end, name: p, role: close, attrs: {'xml:id': KR3ep078_jc_000-d3p4}}
-  body: []
   back: []
-hash: sha256:9d9942fb02568f0bd565622892ef4bffae5e8268aafeeef1cba971f29e139f22
+hash: sha256:cf1042e2d2a47c9c01fa7e455cf37aa96ef559bf7bc118b5cb07ac69f7e05694
